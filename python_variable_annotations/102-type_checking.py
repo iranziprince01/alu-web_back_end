@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+""" 12. Type Checking
+"""
 
 from typing import Any, List, Tuple
 

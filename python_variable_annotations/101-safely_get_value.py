@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+""" 11. More involved type annotations
+"""
 
 from typing import Any, Mapping, TypeVar, Union
 
